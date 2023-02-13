@@ -10,7 +10,7 @@ const LoginPage = () => {
   return (
     <div> 
 
-        <p> hello </p>
+        <p> hello factorfox </p>
             
         
     </div>
